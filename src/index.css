@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container-fluid {
+    padding: 0px;
+    min-width: 1175px;
+}
+
+.row {
+    margin: 0px; 
+}
+
+button:focus {
+    outline: none;
+}
+
+input:focus, select:focus, textarea:focus {
+    outline-color: #35CE97;
+    transition: 0.6s;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
